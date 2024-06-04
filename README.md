@@ -8,4 +8,4 @@ Shop: Explore our cosmic range of makeup products, carefully curated to bring ou
 
 About: Dive deeper into the Celestia story. Learn about our commitment to using naturally extracted ingredients and our mission to promote beauty that is both ethical and sustainable.
 
-Contact: Have a question or feedback? Reach out to us through our contact page. Our celestial team is here to assist you with any inquiries or concerns you may have.
+Contact: Have a question or feedback? Reach out to us through our contact page. 
